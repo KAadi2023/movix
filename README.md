@@ -1,5 +1,5 @@
 # React + Vite
-<h3>This project is developed using reat + vite and you can see the project through this link "https://movix-online.vercel.app/" </h3>
+<h3>This project is developed using reat + vite and deployed using vercel. you can see the project through this link "https://movix-online.vercel.app/" </h3>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
